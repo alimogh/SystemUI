@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="horizontal" android:padding="32dp" android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="horizontal" android:id="@+id/icon_texts_container" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <FrameLayout android:layout_width="45dp" android:layout_height="47dp">
+                <View android:id="@+id/icon_container_bg" android:background="@drawable/tv_rect_dark_left_rounded" android:layout_width="match_parent" android:layout_height="match_parent"/>
+                <FrameLayout android:id="@+id/icon_mic" android:layout_width="35dp" android:layout_height="35dp" android:layout_marginTop="6dp" android:layout_marginBottom="6dp" android:layout_marginStart="6dp">
+                    <View android:layout_gravity="center" android:background="@drawable/tv_circle_dark" android:layout_width="27dp" android:layout_height="27dp"/>
+                    <ImageView android:layout_gravity="center" android:id="@+id/pulsating_circle" android:background="@drawable/tv_circle_white_translucent" android:layout_width="27dp" android:layout_height="27dp"/>
+                    <ImageView android:layout_gravity="center" android:layout_width="27dp" android:layout_height="27dp" android:src="@drawable/tv_ring_white"/>
+                    <ImageView android:layout_gravity="center" android:background="@drawable/tv_ic_mic_white" android:layout_width="16dp" android:layout_height="16dp"/>
+                </FrameLayout>
+            </FrameLayout>
+            <LinearLayout android:orientation="vertical" android:id="@+id/texts_container" android:background="@color/tv_audio_recording_indicator_background" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="47dp">
+                <TextView android:textSize="10dp" android:textColor="@android:color/white" android:layout_width="wrap_content" android:layout_height="14dp" android:layout_marginTop="10dp" android:layout_marginBottom="1dp" android:text="@string/mic_active" android:fontFamily="sans-serif"/>
+                <TextView android:textSize="8dp" android:textColor="@android:color/white" android:id="@+id/text" android:layout_width="wrap_content" android:layout_height="14dp" android:text="SomeApplication accessed your microphone" android:singleLine="true" android:fontFamily="sans-serif"/>
+            </LinearLayout>
+        </LinearLayout>
+    </FrameLayout>
+    <View android:id="@+id/bg_end" android:background="@drawable/tv_rect_dark_right_rounded" android:visibility="visible" android:layout_width="12dp" android:layout_height="47dp"/>
+</LinearLayout>

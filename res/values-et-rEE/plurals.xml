@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="kg_password_default_pin_message">
+        <item quantity="one">Sisestage SIM-kaardi PIN-kood. Teil on jäänud veel %d katse. Pärast seda tuleb seadme avamiseks võtta ühendust mobiilioperaatoriga.</item>
+        <item quantity="other">Sisestage SIM-kaardi PIN-kood. Teil on jäänud veel %d katset.</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message_multi_sim">
+        <item quantity="one">Sisestage SIM-kaardi %d PIN-kood. Teil on jäänud veel %d katse. Pärast seda tuleb seadme avamiseks võtta ühendust mobiilioperaatoriga.</item>
+        <item quantity="other">Sisestage SIM-kaardi %d PIN-kood. Teil on jäänud veel %d katset.</item>
+    </plurals>
+    <plurals name="kg_password_default_puk_message">
+        <item quantity="one">SIM-kaart on nüüd blokeeritud. Jätkamiseks sisestage PUK-kood. SIM-kaardi jäädavalt kasutuskõlbmatuks muutumiseni in jäänud veel %d katse. Lisateavet saate mobiilioperaatorilt.</item>
+        <item quantity="other">SIM-kaart on nüüd blokeeritud. Jätkamiseks sisestage PUK-kood. SIM-kaardi jäädavalt kasutuskõlbmatuks muutumiseni in jäänud veel %d katset. Lisateavet saate mobiilioperaatorilt.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code_multi_sim">
+        <item quantity="one">SIM-kaardi %d vale PIN-kood. Teil on jäänud veel %d katse. Pärast seda tuleb seadme avamiseks võtta ühendust mobiilioperaatoriga.</item>
+        <item quantity="other">SIM-kaardi %d vale PIN-kood. Teil on jäänud veel %d katset.</item>
+    </plurals>
+    <plurals name="notification_hidden_content">
+        <item quantity="one">%d teade vastu võetud</item>
+        <item quantity="other">%d teadet vastu võetud</item>
+    </plurals>
+    <plurals name="smart_aod_calendar_remain_time">
+        <item quantity="one">%d minuti pärast</item>
+        <item quantity="other">%d minuti pärast</item>
+    </plurals>
+</resources>

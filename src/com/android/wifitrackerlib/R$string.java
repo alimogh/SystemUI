@@ -1,0 +1,31 @@
+package com.android.wifitrackerlib;
+public final class R$string {
+    public static final int auto_connect_disable = 2131886442;
+    public static final int available_via_app = 2131886448;
+    public static final int connected_via_app = 2131886704;
+    public static final int connected_via_network_scorer = 2131886706;
+    public static final int connected_via_network_scorer_default = 2131886707;
+    public static final int private_dns_broken = 2131887692;
+    public static final int saved_network = 2131887911;
+    public static final int speed_label_fast = 2131888036;
+    public static final int speed_label_okay = 2131888038;
+    public static final int speed_label_slow = 2131888039;
+    public static final int speed_label_very_fast = 2131888040;
+    public static final int summary_separator = 2131888083;
+    public static final int tap_to_renew_subscription_and_connect = 2131888090;
+    public static final int tap_to_sign_up = 2131888091;
+    public static final int wifi_ap_unable_to_handle_new_sta = 2131888325;
+    public static final int wifi_check_password_try_again = 2131888329;
+    public static final int wifi_connected_no_internet = 2131888330;
+    public static final int wifi_disabled_generic = 2131888340;
+    public static final int wifi_disabled_network_failure = 2131888341;
+    public static final int wifi_disabled_password_failure = 2131888342;
+    public static final int wifi_disconnected = 2131888344;
+    public static final int wifi_limited_connection = 2131888356;
+    public static final int wifi_metered_label = 2131888357;
+    public static final int wifi_no_internet = 2131888359;
+    public static final int wifi_no_internet_no_reconnect = 2131888360;
+    public static final int wifi_passpoint_expired = 2131888362;
+    public static final int wifi_remembered = 2131888363;
+    public static final int wifi_unmetered_label = 2131888409;
+}

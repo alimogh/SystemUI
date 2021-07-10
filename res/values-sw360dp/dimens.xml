@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="global_actions_side_margin">12dp</dimen>
+    <dimen name="navigation_extra_key_width">40dp</dimen>
+    <dimen name="navigation_key_width">80dp</dimen>
+    <dimen name="navigation_side_padding">40dp</dimen>
+    <dimen name="qs_detail_header_text_size">17.5dp</dimen>
+    <dimen name="qs_footer_impl2_icon_padding">13.12dp</dimen>
+    <dimen name="qs_footer_impl2_icon_size">42dp</dimen>
+</resources>

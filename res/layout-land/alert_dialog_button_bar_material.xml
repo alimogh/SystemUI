@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="horizontal" android:id="@+id/buttonPanel" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/op_control_margin_space2" android:layoutDirection="locale" style="?android:attr/buttonBarStyle">
+    <Button android:ellipsize="end" android:gravity="center" android:id="@android:id/button1" android:layout_width="0dp" android:layout_height="@dimen/oneplus_dialog_button_height" android:maxLines="1" android:layout_weight="1" style="@style/res_2131951979_oneplus_widget_appcompat_button_alertdialog_light"/>
+    <Button android:ellipsize="end" android:gravity="center" android:id="@android:id/button3" android:layout_width="0dp" android:layout_height="@dimen/oneplus_dialog_button_height" android:maxLines="1" android:layout_weight="1" style="@style/res_2131951979_oneplus_widget_appcompat_button_alertdialog_light"/>
+    <Button android:ellipsize="end" android:gravity="center" android:id="@android:id/button2" android:layout_width="0dp" android:layout_height="@dimen/oneplus_dialog_button_height" android:maxLines="1" android:layout_weight="1" style="@style/res_2131951979_oneplus_widget_appcompat_button_alertdialog_light"/>
+</LinearLayout>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:drawable="@drawable/res_2131231306_ic_sysbar_rotate_button__0">
+    <target android:name="root" android:animation="@drawable/res_2131231307_ic_sysbar_rotate_button__1"/>
+    <target android:name="icon" android:animation="@drawable/res_2131231308_ic_sysbar_rotate_button__2"/>
+</animated-vector>

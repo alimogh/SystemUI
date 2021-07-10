@@ -1,0 +1,34 @@
+package com.google.android.material;
+public final class R$drawable {
+    public static final int design_bottom_navigation_item_background = 2131232075;
+    public static final int ic_calendar_black_24dp = 2131232868;
+    public static final int ic_edit_black_24dp = 2131233037;
+    public static final int ic_error_icon = 2131233041;
+    public static final int ic_success_icon = 2131233387;
+    public static final int ic_title_bar_back = 2131233428;
+    public static final int mtrl_slider_label = 2131233621;
+    public static final int mtrl_tabs_default_indicator = 2131233622;
+    public static final int navigation_empty_icon = 2131233624;
+    public static final int op_btn_clock_material = 2131233698;
+    public static final int op_btn_keyboard_key_material = 2131233707;
+    public static final int op_dialog_material_background_bottom = 2131233825;
+    public static final int op_input_edit_text_material = 2131233917;
+    public static final int op_major_a_b = 2131233923;
+    public static final int op_major_a_b_animation = 2131233924;
+    public static final int op_major_b_a_animation = 2131233926;
+    public static final int op_major_b_c_animation = 2131233928;
+    public static final int op_major_c_b_animation = 2131233930;
+    public static final int op_minor_a_b_animation = 2131233932;
+    public static final int op_minor_b_a_animation = 2131233934;
+    public static final int op_minor_b_c_animation = 2131233936;
+    public static final int op_minor_c_b_animation = 2131233938;
+    public static final int op_picker_dialog_material_background_bottom = 2131233947;
+    public static final int op_tabbar_land_large = 2131234042;
+    public static final int op_tabbar_land_normal = 2131234043;
+    public static final int op_tabbar_land_short = 2131234044;
+    public static final int op_tabbar_line_min_short = 2131234046;
+    public static final int op_tabbar_line_short = 2131234047;
+    public static final int op_tabbar_line_three = 2131234048;
+    public static final int rectangle_floating_action_button = 2131234111;
+    public static final int switch_floating_action_button = 2131234418;
+}

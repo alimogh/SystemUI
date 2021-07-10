@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.systemui.statusbar.notification.row.ChannelRow xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="horizontal" android:id="@+id/half_shelf_row" android:padding="8dp" android:clickable="true" android:layout_width="match_parent" android:layout_height="wrap_content" android:foreground="?android:attr/selectableItemBackground">
+    <Space android:layout_gravity="center_vertical" android:id="@+id/icon" android:padding="8dp" android:layout_width="48dp" android:layout_height="48dp"/>
+    <RelativeLayout android:gravity="left|center_vertical|center_horizontal|center" android:layout_gravity="center_vertical" android:orientation="vertical" android:id="@+id/description_container" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+        <TextView android:textSize="14sp" android:ellipsize="end" android:gravity="left|center_vertical|center_horizontal|center|start" android:id="@+id/channel_name" android:paddingBottom="0dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:paddingStart="8dp" android:paddingEnd="8dp" style="@style/res_2131952332_textappearance_notificationinfo_title"/>
+        <TextView android:textSize="14sp" android:ellipsize="end" android:gravity="left|center_vertical|center_horizontal|center|start" android:id="@+id/channel_description" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:layout_below="@+id/channel_name" android:paddingStart="8dp" android:paddingEnd="8dp" style="@style/res_2131952331_textappearance_notificationinfo_secondary"/>
+    </RelativeLayout>
+    <Switch android:layout_gravity="center_vertical" android:id="@+id/toggle" android:padding="8dp" android:layout_width="wrap_content" android:layout_height="48dp"/>
+</com.android.systemui.statusbar.notification.row.ChannelRow>

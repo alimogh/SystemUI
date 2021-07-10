@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="battery_detail_graph_space_bottom">27dp</dimen>
+    <dimen name="battery_detail_graph_space_top">27dp</dimen>
+    <dimen name="keyguard_clock_notifications_margin">36dp</dimen>
+    <dimen name="keyguard_indication_margin_bottom">80dp</dimen>
+    <dimen name="navigation_key_padding">42dp</dimen>
+    <dimen name="navigation_key_width">162dp</dimen>
+    <dimen name="qs_brightness_padding_top">6dp</dimen>
+    <dimen name="qs_detail_margin_top">28dp</dimen>
+    <dimen name="qs_tile_margin_top">32dp</dimen>
+    <dimen name="screen_pinning_request_button_width">162dp</dimen>
+    <dimen name="screen_pinning_request_frame_padding">39dp</dimen>
+    <dimen name="screen_pinning_request_side_width">2dp</dimen>
+    <dimen name="screen_pinning_request_width">490dp</dimen>
+    <dimen name="widget_big_font_size">88dp</dimen>
+</resources>

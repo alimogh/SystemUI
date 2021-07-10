@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:ordering="sequentially">
+    <objectAnimator android:interpolator="@drawable/res_2131230995_ic_sysbar_rotate_button__2__0" android:duration="600" android:startOffset="100" android:valueFrom="?attr/rotateButtonStartAngle" android:valueTo="?attr/rotateButtonEndAngle" android:propertyName="rotation"/>
+    <objectAnimator android:duration="100" android:startOffset="1300" android:valueFrom="?attr/rotateButtonStartAngle" android:valueTo="?attr/rotateButtonStartAngle" android:propertyName="rotation"/>
+    <objectAnimator android:interpolator="@drawable/res_2131230996_ic_sysbar_rotate_button__2__1" android:duration="600" android:valueFrom="?attr/rotateButtonStartAngle" android:valueTo="?attr/rotateButtonEndAngle" android:propertyName="rotation"/>
+    <objectAnimator android:duration="100" android:startOffset="1300" android:valueFrom="?attr/rotateButtonStartAngle" android:valueTo="?attr/rotateButtonStartAngle" android:propertyName="rotation"/>
+    <objectAnimator android:interpolator="@drawable/res_2131230997_ic_sysbar_rotate_button__2__2" android:duration="600" android:valueFrom="?attr/rotateButtonStartAngle" android:valueTo="?attr/rotateButtonEndAngle" android:propertyName="rotation"/>
+    <objectAnimator android:duration="100" android:startOffset="1300" android:valueFrom="?attr/rotateButtonStartAngle" android:valueTo="?attr/rotateButtonStartAngle" android:propertyName="rotation"/>
+    <objectAnimator android:interpolator="@drawable/res_2131230998_ic_sysbar_rotate_button__2__3" android:duration="600" android:valueFrom="?attr/rotateButtonStartAngle" android:valueTo="?attr/rotateButtonEndAngle" android:propertyName="rotation"/>
+    <objectAnimator android:duration="100" android:startOffset="1300" android:valueFrom="?attr/rotateButtonStartAngle" android:valueTo="?attr/rotateButtonStartAngle" android:propertyName="rotation"/>
+    <objectAnimator android:interpolator="@drawable/res_2131230999_ic_sysbar_rotate_button__2__4" android:duration="600" android:valueFrom="?attr/rotateButtonStartAngle" android:valueTo="?attr/rotateButtonEndAngle" android:propertyName="rotation"/>
+</set>

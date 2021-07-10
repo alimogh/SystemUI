@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.systemui.statusbar.phone.NavigationBarView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:systemui="http://schemas.android.com/apk/res-auto" android:background="@drawable/system_bar_background" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.android.systemui.CornerHandleView android:layout_gravity="bottom|left|center_vertical|center_horizontal|center" android:id="@+id/assist_hint_left" android:visibility="gone" android:layout_width="36dp" android:layout_height="36dp" android:rotation="270"/>
+    <com.android.systemui.CornerHandleView android:layout_gravity="bottom|right|center_vertical|center_horizontal|center" android:id="@+id/assist_hint_right" android:visibility="gone" android:layout_width="36dp" android:layout_height="36dp" android:rotation="180"/>
+    <com.android.systemui.statusbar.phone.NavigationBarInflaterView android:id="@+id/navigation_inflater" android:layout_width="match_parent" android:layout_height="match_parent"/>
+</com.android.systemui.statusbar.phone.NavigationBarView>

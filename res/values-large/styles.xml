@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="res_2131951717_base_theme_appcompat_dialogwhenlarge" parent="@style/res_2131951715_base_theme_appcompat_dialog_fixedsize">
+    </style>
+    <style name="res_2131951724_base_theme_appcompat_light_dialogwhenlarge" parent="@style/res_2131951722_base_theme_appcompat_light_dialog_fixedsize">
+    </style>
+    <style name="res_2131951733_base_theme_materialcomponents_dialogwhenlarge" parent="@style/res_2131951731_base_theme_materialcomponents_dialog_fixedsize">
+    </style>
+    <style name="res_2131951743_base_theme_materialcomponents_light_dialogwhenlarge" parent="@style/res_2131951741_base_theme_materialcomponents_light_dialog_fixedsize">
+    </style>
+</resources>

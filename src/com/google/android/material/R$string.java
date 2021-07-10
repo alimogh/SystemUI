@@ -1,0 +1,35 @@
+package com.google.android.material;
+public final class R$string {
+    public static final int date_picker_day_of_week_typeface = 2131886797;
+    public static final int date_picker_day_typeface = 2131886798;
+    public static final int date_picker_month_typeface = 2131886799;
+    public static final int mtrl_badge_numberless_content_description = 2131887352;
+    public static final int mtrl_chip_close_icon_content_description = 2131887353;
+    public static final int mtrl_exceed_max_badge_number_suffix = 2131887354;
+    public static final int mtrl_picker_announce_current_selection = 2131887357;
+    public static final int mtrl_picker_date_header_selected = 2131887360;
+    public static final int mtrl_picker_date_header_unselected = 2131887362;
+    public static final int mtrl_picker_day_of_week_column_header = 2131887363;
+    public static final int mtrl_picker_invalid_format = 2131887364;
+    public static final int mtrl_picker_invalid_format_example = 2131887365;
+    public static final int mtrl_picker_invalid_format_use = 2131887366;
+    public static final int mtrl_picker_invalid_range = 2131887367;
+    public static final int mtrl_picker_navigate_to_year_description = 2131887368;
+    public static final int mtrl_picker_out_of_range = 2131887369;
+    public static final int mtrl_picker_range_header_only_end_selected = 2131887370;
+    public static final int mtrl_picker_range_header_only_start_selected = 2131887371;
+    public static final int mtrl_picker_range_header_selected = 2131887372;
+    public static final int mtrl_picker_range_header_unselected = 2131887374;
+    public static final int mtrl_picker_text_input_day_abbr = 2131887379;
+    public static final int mtrl_picker_text_input_month_abbr = 2131887380;
+    public static final int mtrl_picker_text_input_year_abbr = 2131887381;
+    public static final int mtrl_picker_toggle_to_calendar_input_mode = 2131887382;
+    public static final int mtrl_picker_toggle_to_day_selection = 2131887383;
+    public static final int mtrl_picker_toggle_to_text_input_mode = 2131887384;
+    public static final int mtrl_picker_toggle_to_year_selection = 2131887385;
+    public static final int op_character_counter_pattern = 2131887523;
+    public static final int select_day = 2131887980;
+    public static final int select_hours = 2131887981;
+    public static final int select_minutes = 2131887986;
+    public static final int select_year = 2131887994;
+}

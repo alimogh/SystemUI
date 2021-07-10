@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:ordering="together">
+    <objectAnimator android:interpolator="@anim/res_2130772124_lock_scanning_rounded__1__0" android:duration="83" android:startOffset="0" android:valueFrom="1" android:valueTo="1" android:valueType="floatType" android:propertyName="scaleX"/>
+    <objectAnimator android:interpolator="@anim/res_2130772125_lock_scanning_rounded__1__1" android:duration="83" android:startOffset="0" android:valueFrom="1" android:valueTo="1" android:valueType="floatType" android:propertyName="scaleY"/>
+    <objectAnimator android:interpolator="@anim/res_2130772126_lock_scanning_rounded__1__2" android:duration="83" android:startOffset="83" android:valueFrom="1" android:valueTo="0.95" android:valueType="floatType" android:propertyName="scaleX"/>
+    <objectAnimator android:interpolator="@anim/res_2130772127_lock_scanning_rounded__1__3" android:duration="83" android:startOffset="83" android:valueFrom="1" android:valueTo="0.95" android:valueType="floatType" android:propertyName="scaleY"/>
+    <objectAnimator android:interpolator="@anim/res_2130772128_lock_scanning_rounded__1__4" android:duration="183" android:startOffset="167" android:valueFrom="0.95" android:valueTo="1.2" android:valueType="floatType" android:propertyName="scaleX"/>
+    <objectAnimator android:interpolator="@anim/res_2130772129_lock_scanning_rounded__1__5" android:duration="183" android:startOffset="167" android:valueFrom="0.95" android:valueTo="1.2" android:valueType="floatType" android:propertyName="scaleY"/>
+    <objectAnimator android:interpolator="@anim/res_2130772130_lock_scanning_rounded__1__6" android:duration="233" android:startOffset="350" android:valueFrom="1.2" android:valueTo="1" android:valueType="floatType" android:propertyName="scaleX"/>
+    <objectAnimator android:interpolator="@anim/res_2130772131_lock_scanning_rounded__1__7" android:duration="233" android:startOffset="350" android:valueFrom="1.2" android:valueTo="1" android:valueType="floatType" android:propertyName="scaleY"/>
+</set>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="qs_detail_header_text_size">20dp</dimen>
+    <dimen name="qs_footer_impl2_icon_padding">15dp</dimen>
+    <dimen name="qs_footer_impl2_icon_size">48dp</dimen>
+</resources>

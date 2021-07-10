@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="res_2131952346_textappearance_qs_status" parent="@style/res_2131952349_textappearance_qs_tilelabel_secondary">
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+        <item name="android:fontFamily">@android:string/config_bodyFontFamily</item>
+    </style>
+    <style name="res_2131952379_theme_appcompat_daynight" parent="@style/res_2131952377_theme_appcompat">
+    </style>
+    <style name="res_2131952380_theme_appcompat_daynight_darkactionbar" parent="@style/res_2131952377_theme_appcompat">
+    </style>
+    <style name="res_2131952381_theme_appcompat_daynight_dialog" parent="@style/res_2131952386_theme_appcompat_dialog">
+    </style>
+    <style name="res_2131952382_theme_appcompat_daynight_dialog_alert" parent="@style/res_2131952387_theme_appcompat_dialog_alert">
+    </style>
+    <style name="res_2131952383_theme_appcompat_daynight_dialog_minwidth" parent="@style/res_2131952388_theme_appcompat_dialog_minwidth">
+    </style>
+    <style name="res_2131952384_theme_appcompat_daynight_dialogwhenlarge" parent="@style/res_2131952389_theme_appcompat_dialogwhenlarge">
+    </style>
+    <style name="res_2131952385_theme_appcompat_daynight_noactionbar" parent="@style/res_2131952409_theme_appcompat_noactionbar">
+    </style>
+    <style name="res_2131952433_theme_materialcomponents_daynight" parent="@style/res_2131952429_theme_materialcomponents">
+    </style>
+    <style name="res_2131952434_theme_materialcomponents_daynight_bottomsheetdialog" parent="@style/res_2131952430_theme_materialcomponents_bottomsheetdialog">
+    </style>
+    <style name="res_2131952435_theme_materialcomponents_daynight_bridge" parent="@style/res_2131952431_theme_materialcomponents_bridge">
+    </style>
+    <style name="res_2131952436_theme_materialcomponents_daynight_darkactionbar" parent="@style/res_2131952429_theme_materialcomponents">
+    </style>
+    <style name="res_2131952437_theme_materialcomponents_daynight_darkactionbar_bridge" parent="@style/res_2131952431_theme_materialcomponents_bridge">
+    </style>
+    <style name="res_2131952438_theme_materialcomponents_daynight_dialog" parent="@style/res_2131952449_theme_materialcomponents_dialog">
+    </style>
+    <style name="res_2131952439_theme_materialcomponents_daynight_dialog_alert" parent="@style/res_2131952450_theme_materialcomponents_dialog_alert">
+    </style>
+    <style name="res_2131952440_theme_materialcomponents_daynight_dialog_alert_bridge" parent="@style/res_2131952451_theme_materialcomponents_dialog_alert_bridge">
+    </style>
+    <style name="res_2131952441_theme_materialcomponents_daynight_dialog_bridge" parent="@style/res_2131952452_theme_materialcomponents_dialog_bridge">
+    </style>
+    <style name="res_2131952442_theme_materialcomponents_daynight_dialog_fixedsize" parent="@style/res_2131952453_theme_materialcomponents_dialog_fixedsize">
+    </style>
+    <style name="res_2131952443_theme_materialcomponents_daynight_dialog_fixedsize_bridge" parent="@style/res_2131952454_theme_materialcomponents_dialog_fixedsize_bridge">
+    </style>
+    <style name="res_2131952444_theme_materialcomponents_daynight_dialog_minwidth" parent="@style/res_2131952455_theme_materialcomponents_dialog_minwidth">
+    </style>
+    <style name="res_2131952445_theme_materialcomponents_daynight_dialog_minwidth_bridge" parent="@style/res_2131952456_theme_materialcomponents_dialog_minwidth_bridge">
+    </style>
+    <style name="res_2131952446_theme_materialcomponents_daynight_dialogwhenlarge" parent="@style/res_2131952457_theme_materialcomponents_dialogwhenlarge">
+    </style>
+    <style name="res_2131952447_theme_materialcomponents_daynight_noactionbar" parent="@style/res_2131952474_theme_materialcomponents_noactionbar">
+    </style>
+    <style name="res_2131952448_theme_materialcomponents_daynight_noactionbar_bridge" parent="@style/res_2131952475_theme_materialcomponents_noactionbar_bridge">
+    </style>
+    <style name="res_2131952482_theme_oneplus_daynight" parent="@style/res_2131952480_theme_oneplus">
+    </style>
+    <style name="res_2131952484_theme_oneplus_daynight_noactionbar" parent="@style/res_2131952487_theme_oneplus_noactionbar">
+    </style>
+    <style name="res_2131952489_theme_systemui_dialog" parent="@android:style/Theme.DeviceDefault.Dialog">
+    </style>
+    <style name="Theme_SystemUI_Dialog_Alert" parent="@android:style/Theme.DeviceDefault.Dialog.Alert">
+    </style>
+    <style name="Theme_SystemUI_Dialog_GlobalActions" parent="@android:style/Theme.DeviceDefault.NoActionBar.Fullscreen">
+        <item name="android:windowIsFloating">true</item>
+    </style>
+    <style name="res_2131952501_themeoverlay_appcompat_daynight" parent="@style/res_2131952499_themeoverlay_appcompat_dark">
+    </style>
+    <style name="res_2131952521_themeoverlay_materialcomponents_daynight_bottomsheetdialog" parent="@style/res_2131952518_themeoverlay_materialcomponents_bottomsheetdialog">
+    </style>
+    <style name="res_2131952732_widget_materialcomponents_actionbar_primarysurface" parent="@style/res_2131952734_widget_materialcomponents_actionbar_surface">
+    </style>
+    <style name="res_2131952736_widget_materialcomponents_appbarlayout_primarysurface" parent="@style/res_2131952737_widget_materialcomponents_appbarlayout_surface">
+    </style>
+    <style name="res_2131952745_widget_materialcomponents_bottomappbar_primarysurface" parent="@style/Widget_MaterialComponents_BottomAppBar">
+    </style>
+    <style name="res_2131952748_widget_materialcomponents_bottomnavigationview_primarysurface" parent="@style/res_2131952746_widget_materialcomponents_bottomnavigationview">
+    </style>
+    <style name="res_2131952811_widget_materialcomponents_tablayout_primarysurface" parent="@style/res_2131952809_widget_materialcomponents_tablayout">
+    </style>
+    <style name="res_2131952827_widget_materialcomponents_toolbar_primarysurface" parent="@style/res_2131952828_widget_materialcomponents_toolbar_surface">
+    </style>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <inset android:insetTop="-3px" android:insetBottom="-3px">
+            <shape>
+                <stroke android:width="3px" android:color="@color/op_turquoise"/>
+            </shape>
+        </inset>
+    </item>
+    <item android:left="3px" android:top="0px" android:right="3px" android:bottom="0px">
+        <shape>
+            <stroke android:width="3px" android:color="@color/op_control_bg_color_popup_dark"/>
+        </shape>
+    </item>
+</layer-list>
